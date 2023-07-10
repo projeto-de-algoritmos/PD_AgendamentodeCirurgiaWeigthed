@@ -23,10 +23,12 @@ Figura 3: Adicionando um paciente com prioridade maior
 # Gravação da entrega do projeto<br>
 
 ## Link para ver no youtube
-https://youtu.be/A-Fa4E4pAVk
+https://youtu.be/kVGxP790Ipo
+
 
 ## Link para download
-https://github.com/projeto-de-algoritmos/Grafos1_Pacman/blob/master/gravacao-entrega-1.mp4
+[Vídeo](https://github.com/projeto-de-algoritmos/PD_AgendamentodeCirurgiaWeigthed/blob/master/Video%20Agendamento%20de%20Cirurgias%20Programacao%20Dinamica.mp4)
+
 
 
 ## Instalação 
